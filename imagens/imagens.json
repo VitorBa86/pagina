@@ -1,0 +1,138 @@
+{
+  "pagina": "metodo-luanacorre-wellness-club",
+  "molde": "psi-luana-carolina-casais",
+  "referencias_externas": [
+    "REFERENCIA.png (The Wellness Club)",
+    "REFERENCIA HERO.png"
+  ],
+  "estilo_nicho": "Wellness club de corrida, creme, sálvia e dourado oliva",
+  "paleta": [
+    "#F2EEDF",
+    "#FBF9F2",
+    "#ECE6D3",
+    "#A3AE92",
+    "#8A7748",
+    "#2B2D23",
+    "#24221A"
+  ],
+  "slots": [
+    {
+      "id": "IMG-01",
+      "secao": "01 hero",
+      "tipo": "fundo-hero",
+      "origem": "foto do cliente (HERO FUNDO.jpeg)",
+      "largura": 2400,
+      "altura": 1340,
+      "proporcao": "16:9",
+      "slot_do_molde": "S01-1",
+      "prompt": "",
+      "status": "pronto"
+    },
+    {
+      "id": "IMG-01-mobile",
+      "secao": "01 hero",
+      "tipo": "fundo-hero-mobile",
+      "origem": "recorte da IMG-01 (crop 1472x1536 em x=1274)",
+      "largura": 1000,
+      "altura": 1043,
+      "proporcao": "0.96",
+      "prompt": "",
+      "status": "pronto"
+    },
+    {
+      "id": "IMG-02",
+      "secao": "03 modalidades",
+      "tipo": "foto-card",
+      "origem": "gerar ou foto real do clube",
+      "largura": 540,
+      "altura": 600,
+      "proporcao": "9:10",
+      "prompt": "Editorial photo of a small group of adult runners (mixed ages, 25 to 55) jogging together on a tree-lined park path at sunrise, warm golden light, soft haze, muted palette of cream, sage green and olive gold, natural candid moment, shallow depth of field, shot on 35mm. Vertical 9:10. No text, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-03",
+      "secao": "03 modalidades",
+      "tipo": "foto-card",
+      "origem": "gerar ou foto real do clube",
+      "largura": 540,
+      "altura": 600,
+      "proporcao": "9:10",
+      "prompt": "Close editorial photo of a woman runner's wrist with a sports GPS watch, she is checking her pace after a run, beige athletic wear, soft morning light, cream and sage green tones, blurred park background. Vertical 9:10. No readable text on the screen, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-04",
+      "secao": "03 modalidades",
+      "tipo": "foto-card",
+      "origem": "gerar ou foto real do clube",
+      "largura": 540,
+      "altura": 600,
+      "proporcao": "9:10",
+      "prompt": "Editorial photo of three adult runners doing hip mobility and strength exercises on mats outdoors on grass, calm focused mood, soft natural light, cream, beige and sage green palette, minimal and elegant wellness aesthetic. Vertical 9:10. No text, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-05",
+      "secao": "03 modalidades",
+      "tipo": "foto-card",
+      "origem": "foto real do clube (preferível) ou gerar",
+      "largura": 540,
+      "altura": 600,
+      "proporcao": "9:10",
+      "prompt": "Editorial photo of a happy group of amateur runners in matching sage green shirts at the start line of a city street race, early morning, crowd softly blurred, warm light, cream and olive gold tones, joyful but natural. Vertical 9:10. No readable bib numbers, no text, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-06",
+      "secao": "04 sobre",
+      "tipo": "retrato-expert",
+      "origem": "recorte da foto do cliente (HERO FUNDO.jpeg)",
+      "largura": 880,
+      "altura": 1100,
+      "proporcao": "4:5",
+      "prompt": "",
+      "status": "pronto (trocar por outra foto da Luana se houver, para não repetir a hero)"
+    },
+    {
+      "id": "IMG-07",
+      "secao": "06 contato",
+      "tipo": "foto-mosaico",
+      "origem": "foto real do clube (preferível) ou gerar",
+      "largura": 560,
+      "altura": 245,
+      "proporcao": "16:7",
+      "prompt": "Wide editorial photo of a running club group jogging on a tree-lined avenue at sunrise, seen from the side, warm low sun, soft haze, cream, sage green and olive gold palette, candid and elegant. Panoramic 16:7. No text, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-08",
+      "secao": "06 contato",
+      "tipo": "foto-mosaico",
+      "origem": "foto real do clube (preferível) ou gerar",
+      "largura": 300,
+      "altura": 375,
+      "proporcao": "4:5",
+      "prompt": "Editorial photo of two women runners laughing and hugging after a morning training session in a park, sweaty and happy, beige and sage athletic wear, soft golden light. Vertical 4:5. No text, no logos, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    },
+    {
+      "id": "IMG-09",
+      "secao": "06 contato",
+      "tipo": "foto-mosaico",
+      "origem": "gerar",
+      "largura": 300,
+      "altura": 375,
+      "proporcao": "4:5",
+      "prompt": "Close-up editorial photo of a runner's feet in neutral beige running shoes mid-stride on an asphalt path, motion blur, warm morning light, cream and olive tones. Vertical 4:5. No logos, no text, no watermark.",
+      "modelo": "seedream-5-pro",
+      "status": "pronto (gerada pelo usuário, IMAGENS GERADAS/)"
+    }
+  ]
+}
